@@ -1,0 +1,20 @@
+{
+  "name": "sijamur",
+  "version": "1.0.0",
+  "description": "Sijamur Dibuat Oleh Zaenishi",
+  "main": "security/index.js",
+  "scripts": {
+    "start": "node security/index.js"
+  },
+  "keywords": [
+    "sijamur",
+    "zaenishi",
+    "jamur"
+  ],
+  "author": "zaenishi",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "cheerio": "^1.0.0"
+  }
+}
